@@ -33,5 +33,3 @@ The process exits non-zero when mean faithfulness is below the threshold.
 
 ## MLflow
 Add `--mlflow` after installing the MLflow extra. Metrics and generated artifacts are logged to the active MLflow run.
-
-> Do not claim historical production deployment blocks or benchmark volumes unless you have the run records.
