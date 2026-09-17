@@ -1,0 +1,2 @@
+{"id":"refund","query":"What is the refund window?","contexts":["The refund window is 30 days from purchase."],"response":"The refund window is 30 days from purchase.","reference":"30 days"}
+{"id":"support","query":"When is enterprise support available?","contexts":["Enterprise support is available Monday through Friday."],"response":"Enterprise support is available Monday through Friday.","reference":"Monday through Friday"}
