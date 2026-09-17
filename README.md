@@ -23,7 +23,7 @@ pytest -q
 python -m rag_eval.cli --dataset data/sample.jsonl --out artifacts
 ```
 
-The sample dataset is synthetic. The local evaluator is deterministic so CI requires no API key. Ragas/DeepEval judge-backed metrics can be enabled with your own provider credentials.
+The sample dataset is synthetic.
 
 ## CI gate
 ```bash
